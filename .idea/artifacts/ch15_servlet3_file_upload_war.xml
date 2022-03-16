@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch15-servlet3-file-upload:war">
+    <output-path>$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 15/ch15-servlet3-file-upload/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>ch15-servlet3-file-upload</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="ch15-servlet3-file-upload-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch15-servlet3-file-upload:war exploded" />
+    </root>
+  </artifact>
+</component>

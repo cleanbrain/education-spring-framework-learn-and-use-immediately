@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch16-javaconfig-simple-security:war">
+    <output-path>$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 16/ch16-javaconfig-simple-security/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>ch16-javaconfig-simple-security</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="ch16-javaconfig-simple-security-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch16-javaconfig-simple-security:war exploded" />
+    </root>
+  </artifact>
+</component>

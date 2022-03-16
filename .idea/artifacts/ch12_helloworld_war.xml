@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch12-helloworld:war">
+    <output-path>$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 12/ch12-helloworld/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>ch12-helloworld</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="ch12-helloworld-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch12-helloworld:war exploded" />
+    </root>
+  </artifact>
+</component>
