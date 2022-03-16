@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="ch13-jsr380-validation:war">
-    <output-path>$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 13/ch13-jsr380-validation/target</output-path>
+    <output-path>$PROJECT_DIR$/chapter 13/ch13-jsr380-validation/target</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>false</exploded>

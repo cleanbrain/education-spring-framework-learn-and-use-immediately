@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="ch14-webservice-uritemplates:war">
-    <output-path>$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 14/ch14-webservice-uritemplates/target</output-path>
+    <output-path>$PROJECT_DIR$/chapter 14/ch14-webservice-uritemplates/target</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>false</exploded>

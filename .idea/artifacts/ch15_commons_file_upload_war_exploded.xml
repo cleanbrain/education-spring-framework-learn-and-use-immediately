@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="ch15-commons-file-upload:war exploded">
-    <output-path>$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 15/ch15-commons-file-upload/target/ch15-commons-file-upload-0.1.0.BUILD-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/chapter 15/ch15-commons-file-upload/target/ch15-commons-file-upload-0.1.0.BUILD-SNAPSHOT</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -36,7 +36,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 15/ch15-commons-file-upload/target/ch15-commons-file-upload-0.1.0.BUILD-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/chapter 15/ch15-commons-file-upload/target/ch15-commons-file-upload-0.1.0.BUILD-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="ch15-commons-file-upload/web/Web" />
     </root>

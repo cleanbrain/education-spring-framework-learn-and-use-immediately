@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="ch13-jsr380-validation:war exploded">
-    <output-path>$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 13/ch13-jsr380-validation/target/ch13-jsr380-validation-0.1.0.BUILD-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/chapter 13/ch13-jsr380-validation/target/ch13-jsr380-validation-0.1.0.BUILD-SNAPSHOT</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -40,7 +40,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 13/ch13-jsr380-validation/target/ch13-jsr380-validation-0.1.0.BUILD-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/chapter 13/ch13-jsr380-validation/target/ch13-jsr380-validation-0.1.0.BUILD-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="ch13-jsr380-validation/web/Web" />
     </root>

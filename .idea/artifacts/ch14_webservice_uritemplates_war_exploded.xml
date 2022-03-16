@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="ch14-webservice-uritemplates:war exploded">
-    <output-path>$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 14/ch14-webservice-uritemplates/target/ch14-webservice-uritemplates-0.1.0.BUILD-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/chapter 14/ch14-webservice-uritemplates/target/ch14-webservice-uritemplates-0.1.0.BUILD-SNAPSHOT</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -37,7 +37,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 14/ch14-webservice-uritemplates/target/ch14-webservice-uritemplates-0.1.0.BUILD-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/chapter 14/ch14-webservice-uritemplates/target/ch14-webservice-uritemplates-0.1.0.BUILD-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="ch14-webservice-uritemplates/web/Web" />
     </root>

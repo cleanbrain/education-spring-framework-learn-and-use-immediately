@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="ch15-bankapp:war">
-    <output-path>$PROJECT_DIR$/github/excercise/4thEdition-master/chapter 15/ch15-bankapp/target</output-path>
+    <output-path>$PROJECT_DIR$/chapter 15/ch15-bankapp/target</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>false</exploded>
